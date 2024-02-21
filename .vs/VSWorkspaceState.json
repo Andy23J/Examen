@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\uploads",
+    "\\frontend",
+    "\\frontend\\app-ejemplo",
+    "\\frontend\\app-ejemplo\\src",
+    "\\frontend\\app-ejemplo\\src\\componentes",
+    "\\frontend\\app-ejemplo\\src\\componentes\\home",
+    "\\frontend\\app-ejemplo\\src\\componentes\\list",
+    "\\frontend\\app-ejemplo\\src\\screen"
+  ],
+  "PreviewInSolutionExplorer": false
+}
